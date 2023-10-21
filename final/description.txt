@@ -1,0 +1,9 @@
+For the final I have decided to do the foundations.
+While I feel like I have good understanding of the code we have done
+I dont feel like I am ready to utilize so many classes for a bigger
+code. in foundation 1 I will use abstraction by using comment and video classes, foundation 2 
+I'll use encapsulation according to product goods / customers with each class having its own information 
+used hidding each classes data from one another. Foundation 3 I will use shared information in seperate private classes
+by using inheritance. foundation 4 I will use Polymorphism to keep track of workouts in distance, speed, and pace. 
+
+
